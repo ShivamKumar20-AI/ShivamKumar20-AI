@@ -1,6 +1,6 @@
 # Shivam Kumar
 
-**Applied AI Engineer (NLP/LLMs, classical ML)**  
+**Junior AI/ML Developer | AWS Certified AI Practitioner**  
 I build and deploy machine learning and LLM applications as production‑style APIs and web apps.
 
 - 🌍 Location: United Kingdom  
