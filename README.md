@@ -1,6 +1,6 @@
 # Shivam Kumar
 
-**Junior AI/ML Developer | AWS Certified AI Practitioner**  
+# Junior AI/ML Developer | AWS Certified AI Practitioner | Python, PyTorch/TF, Transformers, FastAPI, LangChain | Building and deploying real AI apps  
 I build and deploy machine learning and LLM applications as production‑style APIs and web apps.
 
 - 🌍 Location: United Kingdom  
